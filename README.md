@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! This space documents my journey in the Web3 ecos
 - Contributor and ambassador program development
 
 ### 📫 Connect With Me
-- **X(Twitter):**(https://x.com/mrorantox) 
+- **X(Twitter):**(https://x.com/mrorantox1) 
 - **Discord:** (mrorantox) 
 - **Email:** (mrorantox@Gmail.Com) 
 
