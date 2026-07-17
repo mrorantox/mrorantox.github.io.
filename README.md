@@ -110,7 +110,7 @@ Inside this GitHub, you'll find:
 
 📫 Connect With Me
 
-- 🐦 X (Twitter): @orantox1
+- 🐦 X (Twitter): https://x.com/orantox1
 - 💬 Discord: orantox
 - 📧 Email: mrorantox@gmail.com
 
